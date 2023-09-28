@@ -11,11 +11,11 @@ Extract this code.<br>
 Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.<br>
 Browse the PHPMyAdmin in a browser. i.e. <http://localhost/phpmyadmin><br>
 <br>
-<br>
-Create a new database named trs_db.
-Import the provided SQL file. The file is known as trs_db.sql located inside the database folder.
-Browse the Task Reminder System in a browser. i.e. <http://localhost/php-trs/>.
-Default Admin Access
+Create a new database named trs_db.<br>
+Import the provided SQL file. The file is known as trs_db.sql located inside the database folder.<br>
+Browse the Task Reminder System in a browser. i.e. <http://localhost/php-trs/>.<br><br>
+
+##Default Admin Access
 Username: admin
 Password: sourcecodester&123
 
