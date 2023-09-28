@@ -5,11 +5,11 @@ Download the above code<br> <br>
 
 System Installation/Setup:
 
-Enable the GD Library in your php.ini file.
-Open your XAMPP Control Panel and start Apache and MySQL.
-Extract this code.
-Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
-Browse the PHPMyAdmin in a browser. i.e. <http://localhost/phpmyadmin>
+Enable the GD Library in your php.ini file.<br>
+Open your XAMPP Control Panel and start Apache and MySQL.<br>
+Extract this code.<br>
+Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.<br>
+Browse the PHPMyAdmin in a browser. i.e. <http://localhost/phpmyadmin><br>
 <br>
 <br>
 Create a new database named trs_db.
