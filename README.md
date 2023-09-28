@@ -9,6 +9,8 @@ Open your XAMPP Control Panel and start Apache and MySQL.
 Extract this code.
 Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
 Browse the PHPMyAdmin in a browser. i.e. <http://localhost/phpmyadmin>
+<br>
+
 Create a new database named trs_db.
 Import the provided SQL file. The file is known as trs_db.sql located inside the database folder.
 Browse the Task Reminder System in a browser. i.e. <http://localhost/php-trs/>.
