@@ -24,8 +24,8 @@ Password: shipra123
 
 # Images<br>
 <div align="center">
-  <img alt="ss1" src="./uploads/im1.png" /> <br>
-   <img alt="ss1" src="./uploads/im2.png" /><br>
-   <img alt="ss1" src="./uploads/im3.png" /><br>
+  <img alt="ss1" src="./uploads/im1.png" /> <br><br>
+   <img alt="ss1" src="./uploads/im2.png" /><br><br>
+   <img alt="ss1" src="./uploads/im3.png" /><br><br>
   
 </div>
