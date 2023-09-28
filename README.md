@@ -15,9 +15,9 @@ Import the provided SQL file. The file is known as trs_db.sql located inside the
 Browse the Task Reminder System in a browser. i.e. <http://localhost/php-trs/>.<br><br>
 
 ## Default Admin Access
-Username: admin
+Username: admin <br>
 Password: sourcecodester&123
 
 ## Another Access
-Username: shipra123@gmail.com
+Username: shipra123@gmail.com <br>
 Password: shipra123
